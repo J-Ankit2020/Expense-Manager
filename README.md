@@ -1,3 +1,9 @@
+# About this Project
+
+<p>This project is made with react.js . It is a expense manager which can be used to handle or keep track of your daily expenses </p>
+
+<h4> You can see it's live demo <a href="https://fervent-noether-76f071.netlify.app">here</a><h4> 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
